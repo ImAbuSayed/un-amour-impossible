@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit de Paris, ton regard me fascine
+> Je perds le contrôle quand ton corps s'illumine
+> Baby, you and me, c'est un amour impossible
+> Mais ce soir on s'oublie, l'attraction est la cible
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
